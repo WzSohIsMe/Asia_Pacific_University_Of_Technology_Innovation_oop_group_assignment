@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\frmAdminEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\frmAdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\frmAdminIncome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\frmCustomerEditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\frmCustServChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\frmOngoing Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\frmRcptnOfflRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\frmRcptnPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\frmRcptnPymtPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\frmRcptnEditPrf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmUserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Technician\frmTechAddDescriptionAndLaptopCollectionDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Technician\frmTechEditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Technician\frmTechHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Technician\frmTechViewRequestedService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

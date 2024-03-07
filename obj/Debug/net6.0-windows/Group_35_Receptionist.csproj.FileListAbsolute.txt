@@ -1,0 +1,136 @@
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.exe
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.deps.json
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.runtimeconfig.json
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\bin\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.pdb
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.AssemblyReference.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPage.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.Properties.Resources.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.GenerateResource.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfoInputs.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfo.cs
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.CoreCompileInputs.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.pdb
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.genruntimeconfig.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPymtPage.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnEditPrf.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\Prototype\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnOfflRec.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.AssemblyReference.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.Properties.Resources.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnEditPrf.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnOfflRec.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPage.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPymtPage.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.GenerateResource.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfoInputs.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfo.cs
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.CoreCompileInputs.cache
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.pdb
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmAdminHome.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmUserLogin.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmCustOnServ.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.exe
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.dll.config
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.deps.json
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.runtimeconfig.json
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\Group_35_Receptionist.pdb
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechHome.resources
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.CopyComplete
+D:\Documents\Uni_Modules\Introduction To Object Oriented Programming\Assignment\UI_Prototype_project\Teoh_Will_Shen_TP063735\Group_35_Receptionist\obj\Debug\net6.0-windows\Group_35_Receptionist.genruntimeconfig.cache
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.AssemblyReference.cache
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmAdminHome.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmCustOnServ.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmUserLogin.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.Properties.Resources.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnEditPrf.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnOfflRec.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPage.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPymtPage.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechAddDescriptionAndLaptopCollectionDate.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechEditProfile.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechHome.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechViewRequestedService.resources
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.GenerateResource.cache
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfoInputs.cache
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfo.cs
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.CoreCompileInputs.cache
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.pdb
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.exe
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.dll.config
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.deps.json
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.runtimeconfig.json
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.pdb
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.CopyComplete
+D:\User\Teoh Will Shen\Google Donwloads\test\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.genruntimeconfig.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.AssemblyReference.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\G35_Login_Code.frmAdminEdit.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\G35_Login_Code.frmAdminHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\G35_Login_Code.frmAdminIncome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\G35_Login_Code.frmAdminServ.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmCustOnServ.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmUserLogin.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.Properties.Resources.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnEditPrf.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnOfflRec.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmRcptnPymtPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechAddDescriptionAndLaptopCollectionDate.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.frmTechViewRequestedService.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.GenerateResource.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfoInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.AssemblyInfo.cs
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.CoreCompileInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.exe
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.dll.config
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.deps.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.runtimeconfig.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\ref\Group_35_Receptionist.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Receptionist.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.csproj.CopyComplete
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Receptionist.genruntimeconfig.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\IOOP_Group35_Customer.frmCustEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\IOOP_Group35_Customer.frmCustServChange.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\IOOP_Group35_Customer.frmCustOnServ.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\GROUP_35_Technician.frmTechAddDescriptionAndLaptopCollectionDate.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\GROUP_35_Technician.frmTechEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\GROUP_35_Technician.frmTechHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\GROUP_35_Technician.frmTechViewRequestedService.resources

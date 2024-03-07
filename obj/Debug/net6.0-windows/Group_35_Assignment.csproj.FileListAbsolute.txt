@@ -1,0 +1,121 @@
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.AssemblyReference.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminEdit.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminIncome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminServ.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustServChange.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustOnServ.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmUserLogin.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.Properties.Resources.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnEditPrf.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnOfflRec.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnPymtPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechAddDescriptionAndLaptopCollectionDate.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechViewRequestedService.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.GenerateResource.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.AssemblyInfoInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.AssemblyInfo.cs
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.CoreCompileInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Assignment.exe
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Assignment.dll.config
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Assignment.deps.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Assignment.runtimeconfig.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\ref\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\Group_35_Assignment.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.CopyComplete
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\ref\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Receptionist_copy\obj\Debug\net6.0-windows\Group_35_Assignment.genruntimeconfig.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\Group_35_Assignment.exe
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\Group_35_Assignment.dll.config
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\Group_35_Assignment.deps.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\Group_35_Assignment.runtimeconfig.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\ref\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\Group_35_Assignment.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.AssemblyReference.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminEdit.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminIncome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustServChange.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustOnServ.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmUserLogin.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.Properties.Resources.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnEditPrf.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnOfflRec.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnPymtPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechAddDescriptionAndLaptopCollectionDate.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechViewRequestedService.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.GenerateResource.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.AssemblyInfoInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.AssemblyInfo.cs
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.CoreCompileInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.CopyComplete
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\ref\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment\obj\Debug\net6.0-windows\Group_35_Assignment.genruntimeconfig.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.AssemblyReference.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminEdit.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmAdminIncome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmUserLogin.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.Properties.Resources.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnEditPrf.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnOfflRec.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmRcptnPymtPage.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechAddDescriptionAndLaptopCollectionDate.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechHome.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmTechViewRequestedService.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.GenerateResource.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.AssemblyInfoInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.AssemblyInfo.cs
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.CoreCompileInputs.cache
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\ref\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\Group_35_Assignment.exe
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\Group_35_Assignment.dll.config
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\Group_35_Assignment.deps.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\Group_35_Assignment.runtimeconfig.json
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\ref\Group_35_Assignment.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\Group_35_Assignment.pdb
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustEditProfile.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustServChange.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.frmCustOnServ.resources
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.csproj.CopyComplete
+E:\Uni\Semester 2\IOOP\Assignment\Compiled\Group_35_Assignment - Copy\obj\Debug\net6.0-windows\Group_35_Assignment.genruntimeconfig.cache
